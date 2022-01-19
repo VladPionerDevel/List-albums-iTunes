@@ -32,3 +32,8 @@
 - название группы<br />
 - год выхода альбома<br />
 - список песен<br />
+
+
+## RESULT:
+
+<img src="https://raw.githubusercontent.com/VladPionerDevel/List-albums-iTunes/main/ListAlbum/screenshots/fileName.gif" height="500" style="display: block;margin: 20px auto;">
